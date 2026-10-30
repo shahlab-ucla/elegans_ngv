@@ -10,3 +10,5 @@ To generate the p values from permutation analysis:
 To generate the main figures:
 - run the two above preqrequisite scripts within the same directory that you plan to run Main_Figures.ipynb.
 - the file outputs from those scripts will run within this Jupyter Notebook to produce all figures. 
+
+[![DOI](https://zenodo.org/badge/1422518990.svg)](https://doi.org/10.5281/zenodo.23813615)
